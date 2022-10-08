@@ -1,0 +1,10 @@
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\bin\Debug\Game_PilotBrothersSafe.exe.config
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\bin\Debug\Game_PilotBrothersSafe.exe
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\bin\Debug\Game_PilotBrothersSafe.pdb
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.csprojAssemblyReference.cache
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.Form1.resources
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.Properties.Resources.resources
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.Resource1.resources
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.csproj.GenerateResource.cache
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.exe
+C:\Users\vitkh\source\repos\Game_PilotBrothersSafe\Game_PilotBrothersSafe\obj\Debug\Game_PilotBrothersSafe.pdb
